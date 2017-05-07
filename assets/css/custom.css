@@ -14,7 +14,7 @@
 .hyperlink {
     z-index: 100;
     position: absolute;
-    left: 50px;
-    top: 220px;
-    text-decoration: black;
+    left: 30px;
+    top: 230px;
+    color: black;
 }
