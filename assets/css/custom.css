@@ -1,0 +1,20 @@
+.textAlign {
+    text-align: center;
+}
+
+.background {
+    opacity: 0.4;
+}
+
+.quotes {
+    font-style: italic;
+    font-size: 13px;
+}
+
+.hyperlink {
+    z-index: 100;
+    position: absolute;
+    left: 30px;
+    top: 230px;
+    color: black;
+}
